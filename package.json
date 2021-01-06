@@ -11,7 +11,7 @@
     "dev": "parcel src/index2.html --target browser --port 3000 --open"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "googleapis": "^49.0.0"
   },
